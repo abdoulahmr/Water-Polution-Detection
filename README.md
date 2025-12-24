@@ -13,7 +13,7 @@ master project/
 ├── data_vis.ipynb            # Data visualization and analysis
 ├── train.ipynb               # Model training and evaluation
 ├── final_dataset.csv         # Processed dataset (all parameter measurements)
-├── pivot_dataset.csv         # Pivoted dataset (one row per sample)
+├── pivot_dataset.csv         # Pivoted dataset (one row per sample) [https://drive.google.com/file/d/15VKp3W2AhLYFnb9CMCZSGoj1l5L8EAjC/view?usp=sharing]
 └── dataset/GFQA_v2/          # Raw GFQA v2 data files (download from https://zenodo.org/records/14230628)
     ├── pH.csv
     ├── Temperature.csv
