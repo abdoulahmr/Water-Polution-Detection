@@ -1,6 +1,5 @@
 /venv/
 /dataset/
 __pycache__/
-final_dataset.csv
-pivot_dataset.csv
+catboost_info/
 *.pyc
