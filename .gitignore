@@ -1,5 +1,5 @@
 /venv/
 /dataset/
 __pycache__/
+data.txt
 catboost_info/
-*.pyc
